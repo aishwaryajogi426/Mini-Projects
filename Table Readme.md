@@ -7,7 +7,7 @@ A simple java program which prints the multiplication table upto 10x of a number
 - Takes user input
 - Displays output on console
 
-## Technolofies used
+## Technologies used
 -Java
 
 ## How to Run
@@ -21,4 +21,5 @@ A simple java program which prints the multiplication table upto 10x of a number
 Displays the multiplication table of a number upto 10
 
 ## Future Improvements
+
 - Add GUI
